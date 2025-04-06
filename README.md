@@ -20,6 +20,13 @@ I turn messy data into clean dashboards, smart predictions, and client-ready too
 📊 Built with Dash, Python, Plotly. Filter by Region, Category, Date. Live dark mode.  
 💼 Use case: Business intelligence for SMBs (clients welcome 🧾)
 
+### 📊 Superstore Business Insights  
+[🔗 View Project on GitHub](https://github.com/Senseijay44/superstore-business-insights)
+
+A full business dashboard and EDA project built with real retail data.  
+Includes 10+ charts, strategic insights, and custom branding under the Cowabunga Cloud Solutions voice.  
+Ideal for small biz owners looking for clarity in sales, profit, and customer behavior.  
+
 🧠 **[Airline Sentiment Analysis](#)** (WIP)  
 📝 NLP project using TF-IDF and logistic regression to classify passenger feedback.
 
