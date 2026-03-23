@@ -54,13 +54,6 @@ I’m currently focused on building analytics systems that support the transitio
 
 ---
 
-### ✈️ Airline Sentiment Analysis *(WIP)*  
-**NLP-based classification of customer feedback**  
-- Uses TF-IDF and logistic regression  
-- Planned upgrade to transformer-based models  
-
----
-
 ## ⚙️ Core Skills
 
 **Languages:** Python, SQL  
