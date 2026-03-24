@@ -1,56 +1,60 @@
 # 👋 Justin Poehls  
-### Operations-Focused Data Analyst | AI Systems Builder
+### Operations-Focused Data Analyst | Decision Systems & AI-Assisted Operations
 
-I specialize in turning real-world operational data into actionable insights, dashboards, and intelligent systems.
+I design data-driven systems that translate real-world operational data into **actionable decisions, automation strategies, and intelligent workflows**.
 
-My background in high-volume operations and leadership drives how I approach data:
+My background in high-volume operations and leadership shapes how I approach data:
 - identify inefficiencies  
 - surface meaningful patterns  
-- translate data into decisions  
+- design systems that act on those insights  
 
-I’m currently focused on building analytics systems that support the transition from traditional workflows to **AI-assisted operations**.
+I’m currently focused on building analytics and decision systems that support the transition from traditional workflows to **AI-assisted operations**.
 
 ---
 
 ## 🧠 Featured Projects
 
-### 📞 [Call Center AI Analytics Dashboard](https://github.com/Senseijay44/call-center-ai-analytics-dashboard)
-**AI-ready customer support intelligence system for operational decision-making**  
-- Identifies automation opportunities and escalation risks  
-- Uses sentiment analysis and call pattern detection  
-- Provides AI routing and support optimization recommendations  
+### 📞 [Call Center Decision Intelligence Dashboard](https://github.com/Senseijay44/call-center-ai-analytics-dashboard)
+**From analytics to decision systems for AI-assisted customer support**
+
+- Translates call data into routing decisions (AI vs human escalation)  
+- Applies explainable, rule-based decision logic using sentiment and interaction signals  
+- Simulates how support systems balance automation efficiency vs customer experience risk  
 - Built with Python, Pandas, Plotly, and Streamlit  
 
-💼 *Use case: Customer experience optimization, AI support system design*
+💼 *Use case: Support operations, AI routing strategy, decision system design*
 
 ---
 
 ### 🔐 [Cowabunga Command Center](https://github.com/Senseijay44/cowabunga-command-center)
-**Real-time environmental monitoring and anomaly detection system**  
-- Processes sensor data for critical condition alerts  
-- Applies clustering and anomaly detection techniques  
-- Built as a foundation for resilient, offline-first systems  
+**Real-time monitoring and anomaly detection for resilient systems**
+
+- Processes live environmental signals and detects anomalies  
+- Applies clustering techniques for early warning detection  
+- Designed as a foundation for offline-first and resilience-focused systems  
 
 💼 *Use case: Monitoring systems, anomaly detection, resilience engineering*
 
 ---
 
 ### 📊 [Superstore Sales Dashboard](https://github.com/Senseijay44/superstore_dashboard)  
-**Interactive business intelligence dashboard for sales performance analysis**  
-- Visualizes revenue trends across regions and product categories  
-- Supports decision-making for inventory and sales strategy  
+**Interactive dashboard for operational and revenue decision-making**
+
+- Visualizes performance across regions, products, and time  
+- Highlights trends that inform inventory and sales strategy  
 - Built with Dash, Plotly, and Python  
 
-💼 *Use case: Business intelligence for SMB operations*
+💼 *Use case: Business intelligence and operational analytics*
 
 ---
 
 ### 🧪 [Superstore Business Insights](https://github.com/Senseijay44/superstore-business-insights)  
-**Exploratory data analysis focused on revenue drivers and growth opportunities**  
-- Identifies product bundling and regional demand patterns  
-- Surfaces actionable insights from large retail datasets  
+**Exploratory analysis focused on identifying growth opportunities**
 
-💼 *Use case: Strategic analytics and data-driven decision support*
+- Surfaces revenue drivers and demand patterns  
+- Identifies opportunities for product bundling and regional optimization  
+
+💼 *Use case: Strategic analytics and decision support*
 
 ---
 
@@ -59,20 +63,20 @@ I’m currently focused on building analytics systems that support the transitio
 **Languages:** Python, SQL  
 **Tools:** Pandas, Plotly, Dash, Streamlit, Flask  
 **Focus Areas:**  
-- KPI Analysis  
-- Data Visualization  
 - Operational Analytics  
-- Automation  
-- Introductory Machine Learning / NLP  
+- KPI Design & Performance Analysis  
+- Data Visualization & Dashboarding  
+- Automation & Workflow Design  
+- Applied NLP & Data-Driven Decision Logic  
 
 ---
 
 ## 🔍 Current Focus
 
-- Designing analytics systems for AI-assisted operations  
-- Building deployable dashboards on VPS infrastructure  
+- Designing decision systems for AI-assisted operations  
+- Building deployable analytics tools on VPS infrastructure  
 - Developing automation pipelines for real-world workflows  
-- Exploring long-term memory architectures for AI systems  
+- Exploring memory architectures and long-term reasoning in AI systems  
 
 ---
 
@@ -82,11 +86,11 @@ I’m building toward a unified system of:
 
 - operational analytics  
 - AI-assisted decision systems  
-- scalable, deployable tools for real-world use  
+- scalable, deployable tools for real-world environments  
 
-Through my work with **Cowabunga Cloud Solutions**, I’m focused on bridging the gap between:
+Through **Cowabunga Cloud Solutions**, my focus is on bridging the gap between:
 
-> raw data → actionable insight → intelligent systems
+> raw data → actionable insight → intelligent systems  
 
 ---
 
@@ -98,5 +102,6 @@ Through my work with **Cowabunga Cloud Solutions**, I’m focused on bridging th
 
 ---
 
-> Built for real systems. Designed for scale.  
-> Focused on turning data into decisions.
+> Built from real operations.  
+> Designed for real decisions.  
+> Focused on systems that actually work.
